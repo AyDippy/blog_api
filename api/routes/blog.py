@@ -7,7 +7,7 @@ from fastapi.responses import JSONResponse
 
 router = APIRouter(
     prefix="/blog",
-    tags= ["Blog Content"]
+    tags= ["Blog Content Updated"]
 )
 
 
